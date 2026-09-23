@@ -1,4 +1,4 @@
-# BenivalApp
+# BeniwalApp
 
 A minimal iOS app (SwiftUI + WKWebView) that opens **https://beniwal.me**.
 Full-screen web view, back/forward swipe gestures, custom app icon.
@@ -11,17 +11,17 @@ Full-screen web view, back/forward swipe gestures, custom app icon.
 
 ## Build & run
 
-1. Unzip and open `BenivalApp.xcodeproj` in Xcode.
-2. Select the **BenivalApp** target → **Signing & Capabilities** → pick your
+1. Unzip and open `BeniwalApp.xcodeproj` in Xcode.
+2. Select the **BeniwalApp** target → **Signing & Capabilities** → pick your
    Team. (Change the Bundle Identifier `com.beniwal.app` if it collides.)
 3. Connect your iPhone (or pick a simulator), press **Run** (⌘R).
 
 ## Files
 
-- `BenivalApp/BenivalAppApp.swift` — app entry point
-- `BenivalApp/ContentView.swift` — root view
-- `BenivalApp/WebView.swift` — WKWebView wrapper (change the URL here)
-- `BenivalApp/Assets.xcassets` — app icon & accent color
+- `BeniwalApp/BeniwalAppApp.swift` — app entry point
+- `BeniwalApp/ContentView.swift` — root view
+- `BeniwalApp/WebView.swift` — WKWebView wrapper (change the URL here)
+- `BeniwalApp/Assets.xcassets` — app icon & accent color
 
 ## Notes
 
